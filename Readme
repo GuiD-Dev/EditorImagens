@@ -1,0 +1,5 @@
+﻿Necessário:
+python 3.5
+Tkinter (interface gráfica)
+Pillow (lib de imagens)  --> pip install pillow
+Matplotlib (histograma)  --> pip install matplotlib
